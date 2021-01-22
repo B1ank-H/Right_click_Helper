@@ -1,2 +1,2 @@
 # Right_click_Helper
-A tool for practicing
+C#写的右键注册软件，支持注册表目录指定，命令指定，自动匹配版本号和图标。
